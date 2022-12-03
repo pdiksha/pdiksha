@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Diksha Pathak</h1>
 <h3 align="center">Full Stack Software Engineer @ JPMorgan Chase & Co.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pdiksha" alt="pdiksha" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/dikshap23" target="blank"><img src="https://img.shields.io/twitter/follow/dikshap23?logo=twitter&style=for-the-badge" alt="dikshap23" /></a> </p>
-
 - 🔭 I’m currently working on **building applications which make the life of teams dealing with Mainframe Systems easier**
 
 - 🌱 I’m currently learning **AWS, Spring security, Bootstrap, Jasmine, Junit**
