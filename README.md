@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Diksha Pathak</h1>
 <h3 align="center">Full Stack Software Engineer @ JPMorgan Chase & Co.</h3>
-<img align="right" alt="Coding" width="400" src="pdiksha/istockphoto-1225089159-612x612.jpeg">
+<img align="right" alt="Coding" width="400" src="istockphoto-1225089159-612x612.jpeg">
 
 - 🔭 I’m currently working on **building applications which make the life of teams dealing with Mainframe Systems easier**
 
