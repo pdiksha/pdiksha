@@ -2,9 +2,9 @@
 <h3 align="left">Software Engineer @ JPMorgan Chase & Co.</h3>
 <img align="right" alt="Coding" width="400" src="istockphoto-1225089159-612x612.jpeg">
 
-- 🔭 I’m currently working on **building applications which make the life of teams dealing with Mainframe Systems easier**
+- 🔭 I’m currently working on **building applications which makes the life of employees a bit better**
 
-- 🌱 I’m currently learning **AWS, Spring security, Bootstrap, Jasmine, Junit**
+- 🌱 I’m currently learning **AWS, Kafka, Performance Optimization of REST APIs**
 
 - 👯 I’m looking to collaborate on **hackathons and teaching opportunities**
 
