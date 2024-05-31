@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Diksha Pathak</h1>
-<h3 align="left">Software Engineer @ JPMorgan Chase & Co.</h3>
+<h3 align="left">Software Engineer @ PayPal</h3>
 <img align="right" alt="Coding" width="400" src="istockphoto-1225089159-612x612.jpeg">
 
 - 🔭 I’m currently working on **building applications which makes the life of employees a bit better**
